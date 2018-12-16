@@ -3,7 +3,7 @@
 Hit the GIPHY API.
 
 
-Fool around with the GIPHY API.     
+Fool around with the GIPHY API. [GIPHY API](https://developers.giphy.com/docs/)
 Be sure to read about these GIPHY parameters (hint, hint):
 
 
